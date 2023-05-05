@@ -10,7 +10,7 @@ const count = ref(0);
 
 <template>
   <h1>{{ msg }}</h1>
-  <va-button> Button </va-button>
+  <va-button> Butto!! </va-button>
 
   <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>
